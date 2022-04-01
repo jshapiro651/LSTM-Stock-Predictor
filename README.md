@@ -7,4 +7,4 @@ Homework, Projects, and Demos for Class...
 ## Assignment Details
 
 - The LSTM Stock Predictor Closing notebook is located at [App/lstm_stock_predictor_closing.ipynb](https://github.com/jshapiro651/LSTM-Stock-Predictor/blob/main/App/lstm_stock_predictor_closing.ipynb)
-- The LSTM Stock Predictor FNG notebook is located at [App/lstm_stock_predictor_fng.ipynb](https://github.com/jshapiro651/LSTM-Stock-Predictor/blob/main/App/lstm_stock_predictor_fng.ipynb)
+- The LSTM Stock Predictor Fear and Greed notebook is located at [App/lstm_stock_predictor_fng.ipynb](https://github.com/jshapiro651/LSTM-Stock-Predictor/blob/main/App/lstm_stock_predictor_fng.ipynb)
